@@ -35,16 +35,39 @@ This project analyses the relationship between bookings cancelled with revenue g
 | Revenue Loss          | Revenue lost if the booking was canceled (0 or negative value if not canceled).  | Float (Decimal)   | `Numeric (2dp)`             | `-500.00`, `0.00`                                                                     |
 
 ---
-## Cleaned Dataset 
+## Cleaned Dataset
+
+![image](Data.JPG)
+
+#### Before diving into the analysis, we cleaned the data by:
+
+- Checking and handling missing values.
+- Verifying data types for each column.
+- Removing duplicate records.
 
 ---
 ## Analysis and Calculations 
 
+![image](Analysis1.JPG)
+
 ---
 ## Explanatory Dashboard 
 
+![image](Hotel_Dashboard.JPG)
+
 ---
 ## Insights 
+
+![image](Image1.JPG)
+
+
+![image](Image2.JPG)
+
+
+![image](Image3.JPG)
+
+
+![image](Image4.JPG)
 
 ---
 ## Conclusion 
