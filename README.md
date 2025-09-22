@@ -49,7 +49,7 @@ This project analyses the relationship between bookings cancelled with revenue g
 ## Analysis and Calculations 
 
 ![image](Analysis1.JPG)
-
+- **Analysis using Pivot tables and Conditional formatting to identify patterns and trends** 
 ---
 ## Explanatory Dashboard 
 
@@ -57,23 +57,52 @@ This project analyses the relationship between bookings cancelled with revenue g
 
 ---
 ## Insights 
+### - **Cancellation Trends and Revenue Impact Analysis**  
 
 ![image](Image1.jpg)
-
-
+  
+- **High Cancellation Rates in Summer:**  
+  - Peaks of **39% (2017)** and **34% (2016)** cancellation rates were recorded during July and August.  
+  - This coincides with periods of **increased ADR**, amplifying the revenue impact.
+ ---
+### - **Revenue vs. Revenue Loss:**  
 ![image](Image2.jpg)
 
-
+  - In **July 2016**, revenue reached **$781K**, but cancellations caused a **$398K loss**.  
+  - In **August 2016**, revenue hit **$1M**, but **$593K was lost** due to cancellations.  
+  - Overall, cancellations wiped out nearly **50% of peak summer earnings** which was approximately **$1M between July - August 2016**  
+---
+### - **Booking Patterns and Reliability** 
 ![image](Image3.jpg)
 
-
+- **Bookings made >30 days before arrival:**  
+  - Represent **83% of total cancellations**.  
+  - Have a **38% cancellation rate**.  
+  - Lower ADR: **$169 average**.  
+---
 ![image](Image4.jpg)
 
+- **Bookings made within 0–30 days of arrival:**  
+  - Represent only **17% of cancellations**.  
+  - Have a much lower **20% cancellation rate**.  
+  - Higher ADR: **$191 average**.  
+
+### - **Insight:** Last-minute bookings are both **more reliable** and **more profitable**.  
+---
+## Summary   
+- By **overbooking same-month reservations during peak summer**, we can:  
+- Offset early booking cancellations by filling rooms with more reliable last-minute reservations.  
+- Increase revenue with higher ADR from short-term bookings.  
+- Reduce revenue loss from cancellations, transforming potential losses into gains.  
 ---
 ## Conclusion 
-
+- Cancellations are not only a challenge but also an opportunity. By strategically overbooking summer reservations, the resort can **recover the $1 million lost annually** and potentially unlock **additional revenue growth**.
 ---
 ## Recommendation 
-
+- **Implement controlled overbooking** for July and August, aligned with historical cancellation trends.  
+- **Prioritize late-booking customers** (0–30 days before arrival) who offer higher ADR and lower cancellation risk.  
+- **Continuously monitor cancellation rates** to adjust overbooking thresholds dynamically.  
 ---
 ## About Me 
+- I transform complex data into clear, actionable insights.
+Using analytics, machine learning, and visualization, I help you understand trends, improve efficiency, and plan for the future.
