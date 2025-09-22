@@ -53,7 +53,7 @@ This project analyses the relationship between bookings cancelled with revenue g
 ---
 ## Explanatory Dashboard 
 
-![image](Hotel_Dashboard.Png)
+![image](Hotel_Dashboard.png)
 
 ---
 ## Insights 
