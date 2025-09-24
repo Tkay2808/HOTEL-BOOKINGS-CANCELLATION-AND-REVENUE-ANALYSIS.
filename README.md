@@ -103,6 +103,8 @@ This project analyses the relationship between bookings cancelled with revenue g
 - **Prioritize late-booking customers** (0–30 days before arrival) who offer higher ADR and lower cancellation risk.  
 - **Continuously monitor cancellation rates** to adjust overbooking thresholds dynamically.  
 ---
-## About Me 
+## About me
 - I transform complex data into clear, actionable insights.
 Using analytics, machine learning, and visualization, I help you understand trends, improve efficiency, and plan for the future.
+
+Connect with me @https://www.linkedin.com/in/adetokunbo-olasupo-70aa042a1
